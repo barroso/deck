@@ -9,7 +9,5 @@ yarn-debug.log*
 yarn-error.log*
 /.changelog
 yarn.lock
-src/*
-public/*
 build/static/css/*.map
 build/static/js/*.map
